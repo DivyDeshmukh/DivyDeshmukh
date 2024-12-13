@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-NextJS, NestJS, TypeORM, MySql
+Hi, I'm Divy, a Full-Stack Developer based in India.
 
 
 ## 🌐 Socials:
