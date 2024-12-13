@@ -1,35 +1,31 @@
-👋 Hi, I'm Divy Deshmukh!
-🌐 Full-Stack Developer | Computer Science Enthusiast | Loves to develop and work on innovative project ideas
+<h1 align="center">Hi 👋, I'm Divy Deshmukh</h1>
+<h3 align="center">A Full-Stack Developer based in India.</h3>
 
-🚀 About Me
-Hi there! I'm a passionate full-stack developer with a deep love for web development and all things computer science. My journey in tech has been driven by a constant thirst for knowledge and a dedication to crafting efficient, scalable, and impactful solutions. I firmly believe in the power of collaboration and continuous learning.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divydeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="divydeshmukh" /> </p>
 
-🔧 What I Bring to the Table:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divydeshmukh" alt="divydeshmukh" /></a> </p>
 
-Expertise in building end-to-end web solutions using modern frameworks and tools.
-An ability to break down complex problems into simple, elegant solutions.
-A drive for continuous improvement through consistent contributions to open-source and collaborative projects.
-🏆 Highlights
-Continuous Learner: Always exploring emerging technologies and implementing them in real-world scenarios.
-🌟 Interests
-Building web applications that make a difference. 🌐
-Exploring the depths of computer science concepts like algorithms, data structures, and system design. 💻
-Contributing to open-source and collaborating on innovative projects. 🤝
-Sharing knowledge through blogs and tech talks. 📝
-⚙️ Tech Stack
-💻 Languages: JavaScript (ES6+), Typescript, C, Python
-🌐 Front-End: Next, React, Angular, HTML5, CSS3, Tailwind CSS
-📦 Back-End: Nest, Node.js, Express
-🗄️ Database: MySQL, MongoDB, PostgreSQL
-☁️ Cloud: AWS, Appwrite
-⚙️ Tools & Platforms: Docker, GitHub Actions, VS Code
+- 🌱 I’m currently learning **NestJS,TypeORM, DSA**
 
-🌟 Fun Fact
-I don't just write code – I love solving puzzles and finding creative solutions. Whether it’s optimizing algorithms or debugging a stubborn issue, I treat every challenge as an opportunity to learn something new.
+- 👨‍💻 All of my projects are available at [https://divysportfolio.netlify.app](https://divysportfolio.netlify.app)
 
-📫 How to Reach Me
-💼 LinkedIn:- https://www.linkedin.com/in/divy-deshmukh-035763235/
-📧 Email: divydeshmukh1104@gmail.com
-🐦 Twitter:- https://x.com/DeshmukhDivy
-💡 Let's Collaborate!
-I'm always excited to work on impactful projects and exchange ideas with like-minded individuals. If you're building something awesome or need a dedicated contributor for your team, feel free to connect!
+- 💬 Ask me about **React, Typescript, Javascript, Angular, NextJS, Express, Node, Databases**
+
+- 📫 How to reach me **divydeshmukh1104@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aBuYWP8S1cmSlrN05YkJ5U-yRfYyekz3/view](https://drive.google.com/file/d/1aBuYWP8S1cmSlrN05YkJ5U-yRfYyekz3/view)
+
+- ⚡ Fun fact **Everything is EASY, if you are not LAZY.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divydeshmukh&show_icons=true&locale=en&layout=compact" alt="divydeshmukh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divydeshmukh&show_icons=true&locale=en" alt="divydeshmukh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divydeshmukh&" alt="divydeshmukh" /></p>
