@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi, I'm Divy, a Full-Stack Developer based in India.
+Hi, I'm Divy, a Full-Stack Gen AI Developer based in India.
 
 
 ## 🌐 Socials:
