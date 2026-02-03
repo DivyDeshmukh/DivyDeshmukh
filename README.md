@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Divy Deshmukh
 
-### 💻 Full-Stack Gen AI Developer | 🇮🇳 Based in India | 🚀 Building the Future with AI
+### 💻 Full-Stack Gen AI Developer | Based in India | 🚀 Building the Future with AI
 
 <br/>
 
